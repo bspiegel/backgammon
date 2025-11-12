@@ -1,2 +1,2 @@
-# backgammon
-Backgammon game simulator and client/server for networked games based on Pygame.
+# Backgammon - Watch n' Play
+Backgammon game simulator and client for networked games between two people.
