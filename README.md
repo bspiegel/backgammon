@@ -12,3 +12,28 @@ My partner loves backgammon and we play often when we are together. There was a 
 - I wanted a way to save our games and play them back - either to learn or for bragging rights.
 - I wanted to be able to analyze our moves using a game engine.
 - I wanted to be able to create custom gameboard designs.
+
+## :rocket: Quick Start
+### 1. TODO: ways to run it on macOS, Windows, and Linux
+Try to make this a super easy process
+```
+some code here or whatever
+```
+
+## Usage
+TODO: Information on - Running the program. Arguments, flags, modes, how-to, etc.
+
+## Examples
+- TODO: add concrete examples in action (gifs, images, etc)
+- ...
+
+## Contributing
+Instructions on how to contribute to the project
+
+### Clone the repo
+```
+stuff
+```
+### Build the thingy or download libraries or whatever
+
+### more steps...
